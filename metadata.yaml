@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2064
     wikipedia: http://en.wikipedia.org/wiki/David_Masson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14380#The-Life-of-John-Milton-Volume-5--of-7--1654-1660--13-Narrated-in-Connexion-with-the-Politica_
 gutenberg_issued: '2004-12-19'
 gutenberg_type: Text
 identifiers:
