@@ -1,0 +1,29 @@
+_repo: The-Life-of-John-Milton-Volume-5--of-7--1654-1660--13-Narrated-in-Connexion-with-the-Politica__14380
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Masson, David
+    birthdate: 1822
+    deathdate: 1907
+    gutenberg_agent_id: '2064'
+    url: http://www.gutenberg.org/2009/agents/2064
+    wikipedia: http://en.wikipedia.org/wiki/David_Masson
+description: ''
+gutenberg_issued: '2004-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14380'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Milton, John, 1608-1674'
+- !lcc 'PR'
+- !lcsh 'Poets, English -- Early modern, 1500-1700 -- Biography'
+title: "The Life of John Milton, Volume 5 (of 7), 1654-1660\r\nNarrated in Connexion\
+  \ with the Political, Ecclesiastical, and Literary History of His Time"
+url: http://www.gutenberg.org/ebooks/14380
